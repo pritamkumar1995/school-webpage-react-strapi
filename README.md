@@ -1,5 +1,5 @@
 
-# to run react and strapi : create seperate terminal run it parallely > react : npm start and strapi : npm run develop
+# To run react and strapi : create seperate terminal run it parallely > react : npm start and strapi : npm run develop
 
 
 
